@@ -1,0 +1,6 @@
+Rock Face 03
+Photography: Dario Barresi. Processing: Rico Cilliers.
+https://polyhaven.com/a/rock_face_03
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+
+Diffuse, OpenGL normal, and roughness textures from Poly Haven.
